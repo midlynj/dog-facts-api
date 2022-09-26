@@ -1,7 +1,5 @@
 import createView from "../createView.js";
 import {getHeaders} from "../auth.js";
-export let newTitle
-export let newContent
 export {createPost}
 
 export default function createPost(props) {
