@@ -51,9 +51,5 @@ export function createPostEvent() {
                     createView('/posts');
                 }
             });
-
-
-
-
     })
 }

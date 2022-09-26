@@ -12,5 +12,4 @@ export function LogoutEvents() {
         window.localStorage.removeItem("refresh_token");
         createView('/');
     },5)
-
 }
